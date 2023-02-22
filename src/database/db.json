@@ -1,0 +1,58 @@
+{
+  "Student": [
+    {
+      "name": "hong19",
+      "gender": "male",
+      "dateOfBirth": "2022-10-09T17:00:00.000Z",
+      "phone": "077645994",
+      "email": "thai@gmail.com",
+      "classRoom": "Khmer",
+      "shiftSession": 1,
+      "classRoomId": 3,
+      "id": 5
+    },
+    {
+      "name": "Thorn Bunthai",
+      "gender": "male",
+      "dateOfBirth": "2022-10-16T17:00:00.000Z",
+      "phone": "096 776 6223",
+      "email": "thornbunthai02@gmail.com",
+      "classRoom": "Khmer",
+      "shiftSession": 1,
+      "classRoomId": 3,
+      "id": 6
+    },
+    {
+      "name": "Test",
+      "gender": "male",
+      "dateOfBirth": "2023-01-25T17:00:00.000Z",
+      "phone": "01234567",
+      "email": "thai@gmail.com",
+      "classRoom": "Khmer",
+      "shiftSession": 1,
+      "classRoomId": 3,
+      "id": 7
+    }
+  ],
+  "ClassRoom": [
+    {
+      "className": "English",
+      "shiftSession": 2,
+      "totalStudent": 0,
+      "id": 2
+    },
+    {
+      "className": "Khmer",
+      "shiftSession": 1,
+      "totalStudent": 3,
+      "id": 3
+    },
+    {
+      "className": "Grand 1 English",
+      "shiftSession": 3,
+      "totalStudent": 0,
+      "id": 4
+    }
+  ],
+  "Teacher": []
+}
